@@ -106,7 +106,6 @@ Identify revenue leakage and growth opportunities
 Translate raw data into clear business insights
 
 Support retail and e-commerce decision-making
-
 [Download excel file](https://github.com/MaameAfia25/Diagnosing-Declining-Sales-and-Revenue-Leakage-in-a-Retail-E-Commerce-Company/blob/main/UK_Retail_Ecommerce_2018_2022.xlsx)
 
 ![TASK 14B - Maame Afia](https://github.com/MaameAfia25/Diagnosing-Declining-Sales-and-Revenue-Leakage-in-a-Retail-E-Commerce-Company/blob/main/Revenue%20Leakage%20.jpg)
